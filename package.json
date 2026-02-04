@@ -1,0 +1,21 @@
+{
+	"name": "com.ging1991.salesforce",
+	"version": "1.0.0",
+	"displayName": "Ging1991 - Salesforce",
+	"description": "Librería base para soportar llamadas a salesforce.",
+	"unity": "2022.3",
+	"keywords": ["soporte",	"unity", "tcg",	"util"],
+	"author": {
+		"name": "Carlos Caballero",
+		"email": "tu-email@ejemplo.com",
+		"url": "https://github.com/Ging1991/Unity-Relojes.git"
+	},
+		"samples": [
+		{
+			"displayName": "Ejemplos",
+			"description": "Escenas y scripts de ejemplo",
+			"path": "Samples~/Ejemplos"
+		}
+	]
+
+}
