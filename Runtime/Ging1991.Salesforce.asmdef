@@ -1,14 +1,17 @@
 {
-  "name": "Ging1991.Salesforce",
-  "rootNamespace": "Ging1991.Salesforce",
-  "references": ["Ging1991.Core", "Ging1991.Persistencia"],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "autoReferenced": true,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "defineConstraints": [],
-  "versionDefines": [],
-  "noEngineReferences": false
+	"name": "Ging1991.Salesforce",
+	"rootNamespace": "Ging1991.Salesforce",
+	"references": [
+		"Ging1991.Core",
+		"Ging1991.Persistencia"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"autoReferenced": true,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
 }
